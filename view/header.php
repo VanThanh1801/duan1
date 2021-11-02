@@ -1,42 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <!-- Important to make website responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Restaurant Website</title>
+    <title>complete responsive grocery website design tutorial</title>
 
-    <!-- Link our CSS file -->
-    <link rel="stylesheet" href="css/style.css">
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="./view/css/style.css">
+
 </head>
 
 <body>
-    <!-- Navbar Section Starts Here -->
-    <section class="navbar">
-        <div class="container">
-            <div class="logo">
-                <a href="#" title="Logo">
-                    <img src="images/logo.png" alt="Restaurant Logo" class="img-responsive">
-                </a>
-            </div>
 
-            <div class="menu text-right">
-                <ul>
-                    <li>
-                        <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="categories.html">Categories</a>
-                    </li>
-                    <li>
-                        <a href="foods.html">Foods</a>
-                    </li>
-                    <li>
-                        <a href="#">Contact</a>
-                    </li>
-                </ul>
-            </div>
+    <!-- header section starts  -->
 
-            <div class="clearfix"></div>
+    <header>
+
+        <div class="header-1">
+
+            <a href="#" class="logo"><i class="fas fa-shopping-basket"></i>groco</a>
+
+            <form action="" class="search-box-container">
+                <input type="search" id="search-box" placeholder="search here...">
+                <label for="search-box" class="fas fa-search"></label>
+            </form>
+
         </div>
-    </section>
+
+        <div class="header-2">
+
+            <div id="menu-bar" class="fas fa-bars"></div>
+
+            <nav class="navbar">
+                <a href="#home">home</a>
+                <a href="#category">category</a>
+                <a href="#product">product</a>
+                <a href="#deal">deal</a>
+                <a href="#contact">contact</a>
+            </nav>
+
+            <div class="icons">
+                <a href="#" class="fas fa-shopping-cart"></a>
+                <a href="#" class="fas fa-heart"></a>
+                <a href="#" class="fas fa-user-circle"></a>
+            </div>
+
+        </div>
+
+    </header>
