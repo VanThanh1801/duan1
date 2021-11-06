@@ -2,13 +2,13 @@
 <section class="home" id="home">
 
 <div class="image">
-    <img src="./images/home-img.png" alt="">
+    <img src="./view/images/home-img.png" alt="">
 </div>
 
 <div class="content">
-    <span>fresh and organic</span>
-    <h3>your daily need products</h3>
-    <a href="#" class="btn">get started</a>
+    <span>Thực phẩm tươi và thực phẳm hữu cơ</span>
+    <h3>Các sản phẩm bán trong ngày</h3>
+    <a href="#" class="btn">Mua Ngay</a>
 </div>
 
 </section>

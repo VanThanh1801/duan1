@@ -1,6 +1,6 @@
 <section class="product" id="product">
 
-<h1 class="heading">latest <span>products</span></h1>
+<h1 class="heading">Sản phẩm <span>mới nhất</span></h1>
 
 <div class="box-container">
 
@@ -11,8 +11,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-1.png" alt="">
-        <h3>organic banana</h3>
+        <img src="./view/images/product-1.png" alt="">
+        <h3>Chuối</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -21,12 +21,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -36,8 +36,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-2.png" alt="">
-        <h3>organic tomato</h3>
+        <img src="./view/images/product-2.png" alt="">
+        <h3>Cà Chua</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -46,12 +46,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -61,8 +61,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-3.png" alt="">
-        <h3>organic orange</h3>
+        <img src="./view/images/product-3.png" alt="">
+        <h3>Quả Cam</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -71,12 +71,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -86,8 +86,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-4.png" alt="">
-        <h3>natural mild</h3>
+        <img src="./view/images/product-4.png" alt="">
+        <h3>Sữa natural</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -96,12 +96,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -111,8 +111,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-5.png" alt="">
-        <h3>organic grapes</h3>
+        <img src="./view/images/product-5.png" alt="">
+        <h3>Nho Hữa Cơ</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -121,12 +121,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -136,8 +136,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-6.png" alt="">
-        <h3>natural almonts</h3>
+        <img src="./view/images/product-6.png" alt="">
+        <h3>Hạnh nhân tự nhiên</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -146,12 +146,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -161,8 +161,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-7.png" alt="">
-        <h3>organic apple</h3>
+        <img src="./view/images/product-7.png" alt="">
+        <h3>Táo hữa cơ</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -171,12 +171,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -186,8 +186,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-8.png" alt="">
-        <h3>natural butter</h3>
+        <img src="./view/images/product-8.png" alt="">
+        <h3>Bơ tự nhiên</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -196,12 +196,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
     <div class="box">
@@ -211,8 +211,8 @@
             <a href="#" class="fas fa-share"></a>
             <a href="#" class="fas fa-eye"></a>
         </div>
-        <img src="images/product-9.png" alt="">
-        <h3>organic carrot</h3>
+        <img src="./view/images/product-9.png" alt="">
+        <h3>Cà rốt sạch</h3>
         <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -221,12 +221,12 @@
             <i class="fas fa-star-half-alt"></i>
         </div>
         <div class="price"> $10.50 <span> $13.20 </span> </div>
-        <div class="quantity">
-            <span>quantity : </span>
+        <div class="Số lượng">
+            <span>Số lượng : </span>
             <input type="number" min="1" max="1000" value="1">
             <span> /kg </span>
         </div>
-        <a href="#" class="btn">add to cart</a>
+        <a href="#" class="btn">Thêm giỏ hàng</a>
     </div>
 
 </div>

@@ -3,7 +3,7 @@
     <!-- header section ends -->
 
     <!-- home section starts  -->
-
+    
     <?php include_once('view/lobanner.php') ?>
 
     <!-- home section ends -->

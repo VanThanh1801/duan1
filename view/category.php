@@ -1,32 +1,44 @@
 <section class="category" id="category">
 
-    <h1 class="heading">shop by <span>category</span></h1>
+    <h1 class="heading">Sản phẩm <span>theo danh mục</span></h1>
 
     <div class="box-container">
 
         <div class="box">
-            <h3>vegitables</h3>
-            <p>upto 50% off</p>
+            <h3>Sữa và Trứng</h3>
+            <p>sale off 50%</p>
             <img src="images/category-1.png" alt="">
-            <a href="#" class="btn">shop now</a>
+            <a href="#" class="btn">Mua Ngay</a>
         </div>
         <div class="box">
-            <h3>juice</h3>
-            <p>upto 44% off</p>
+            <h3>Cá & Hải Sản</h3>
+            <p>sale off 44% </p>
             <img src="images/category-2.png" alt="">
-            <a href="#" class="btn">shop now</a>
+            <a href="#" class="btn">Mua Ngay</a>
         </div>
         <div class="box">
-            <h3>meat</h3>
-            <p>upto 35% off</p>
+            <h3>Hoa Quả</h3>
+            <p>Sale off 35%</p>
             <img src="images/category-3.png" alt="">
-            <a href="#" class="btn">shop now</a>
+            <a href="#" class="btn">Mua Ngay</a>
         </div>
         <div class="box">
-            <h3>fruite</h3>
-            <p>upto 12% off</p>
+            <h3>Thit& Gia Cầm</h3>
+            <p>Sale off 12% </p>
             <img src="images/category-4.png" alt="">
-            <a href="#" class="btn">shop now</a>
+            <a href="#" class="btn">Mua Ngay</a>
+        </div>
+        <div class="box">
+            <h3>Sữa & Đồ Uống</h3>
+            <p>Sale off 34% </p>
+            <img src="images/category-4.png" alt="">
+            <a href="#" class="btn">Mua Ngay</a>
+        </div>
+        <div class="box">
+            <h3>Rau</h3>
+            <p>Sale off 12% </p>
+            <img src="images/category-4.png" alt="">
+            <a href="#" class="btn">Mua Ngay</a>
         </div>
 
     </div>

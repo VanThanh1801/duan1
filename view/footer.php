@@ -1,3 +1,5 @@
+<script src="../view/js/slideshow.js"></script>
+
 <section class="footer">
 
         <div class="box-container">

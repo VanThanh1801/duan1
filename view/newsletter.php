@@ -1,10 +1,10 @@
 <section class="newsletter">
 
-    <h3>subscribe us for latest updates</h3>
+    <h3>Đăng ký chúng tôi để cập nhật mới nhất</h3>
 
     <form action="">
         <input class="box" type="email" placeholder="enter your email">
-        <input type="submit" value="subscribe" class="btn">
+        <input type="submit" value="Đăng Ký" class="btn">
     </form>
 
 </section>

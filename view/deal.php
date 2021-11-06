@@ -2,7 +2,7 @@
 
     <div class="content">
 
-        <h3 class="title">deal of the day</h3>
+        <h3 class="title">Ưu đãi trong ngày</h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam possimus voluptates commodi laudantium! Doloribus sint voluptatibus quaerat sequi suscipit nulla?</p>
 
         <div class="count-down">
@@ -24,7 +24,7 @@
             </div>
         </div>
 
-        <a href="#" class="btn">check the deal</a>
+        <a href="#" class="btn">Xem ưu đãi</a>
 
     </div>
 
